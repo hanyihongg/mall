@@ -11,13 +11,13 @@ export default {
 };
 </script>
 
-<style>
+<style scoped>
 #tab-bar {
   display: flex;
   position: fixed;
   left: 0;
   right: 0;
   bottom: 0;
-  background-color: #f6f6f6;
+  background-color: #f4f4f4;
 }
 </style>
